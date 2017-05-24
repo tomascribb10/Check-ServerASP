@@ -1,4 +1,5 @@
-﻿Function ConvertFrom-AccessMask {
+﻿####Desde PC Local#####
+Function ConvertFrom-AccessMask {
 [cmdletbinding()]
 Param (
 [Parameter(Position=0,Mandatory,HelpMessage="Enter an AccessMask",
